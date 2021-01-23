@@ -1,0 +1,22 @@
+.menu{
+    padding: 20px 30px;
+    width: 100%; 
+    background-color: #f11e53;
+    box-shadow: 5px 5px 5px rebeccapurple;
+    position: top;
+}
+.menu-item-block{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    list-style:none;
+}
+.menu-text{
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+}
